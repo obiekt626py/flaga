@@ -17,11 +17,11 @@ Ustawiamy uprawnienia root ("administratora").
 
 
 ```
-sudo passwd 
+sudo passwd <----- To dla AWS tylkooo!
 ```
 Podaj hasło i zapisz. Wpisz jeszcze poniższe i podaj hasło.
 ```
-su - 
+su -  <----- Też tylko dla AWS!! xD
 ```
 
 Jesteś na serwerze jako root. 
