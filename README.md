@@ -121,5 +121,13 @@ systemctl restart nginx
 systemctl restart flaga.service
 ```
 
+#### Resetowanie środowiska
+
+# Resetowa nie srodowiska
+
+```
+python3 oczysc.py
+```
+
 
 
