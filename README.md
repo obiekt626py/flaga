@@ -121,6 +121,16 @@ systemctl restart nginx
 systemctl restart flaga.service
 ```
 
+#### Jak skońćzysz
+Możesz opuścić Terminal pisząć
+
+```
+exit
+```
+
+Strona nadal będzie stała.
+
+
 #### Resetowanie środowiska
 
 # Resetowa nie srodowiska
