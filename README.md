@@ -57,7 +57,7 @@ python3 xD.py <---- z dużej litery xD.py a nie xd.py z małej litery.
 
 #### 4. Wewnątrz środowiska (env).
 
-Wszystkie polecenia wykonywane w tym kroku są wykonywane w folderze /var/www
+Wszystkie polecenia wykonywane w tym kroku są wykonywane w folderze /var/www/flaga
 Napisz 
 ```
 pwd
