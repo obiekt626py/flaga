@@ -132,7 +132,12 @@ Strona nadal będzie stała.
 
 #### Resetowanie środowiska
 
+Zrób to w sytuacji jak coś Ci się zchrzani i będziesz chciał usunąć
+a) Błąd ze ścieżką gunicorna
+b) zle podałes domenę w setting.ini
+
 # Resetowa niesrodowiska
+
 
 ```
 python3 oczysc.py
