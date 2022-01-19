@@ -25,6 +25,10 @@ su -  <----- Też tylko dla AWS!! xD
 
 Jesteś na serwerze jako root. 
 
+PS: w terminalu używaj skrótów:
+-> ctrl+shift+c <--- kopiuj w terminalu
+-> ctrl+shift+v <--- wklej w terminalu
+
 #### 2. Uaktualniamy paczki (packages).
 
 ```
