@@ -10,6 +10,7 @@ ssh nazwa_uzytkownika@adres_ip
 
 PS: W trakcie instalacji gdy proces się zatrzymuje z zapytaniem "Do you want to continue? [Y/n]" na końcu, napisz "Y" aby przejść dalej.
 
+P2: Kto pominie jakąś komendę ten jest waflem i będzie miał błędy.
 
 
 ### Uprawnienia root dla AWS Ubuntu 18/20 (Nie trzeba tego kroku robić dla VPS z Home i większość innych):
