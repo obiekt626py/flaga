@@ -38,7 +38,7 @@ VPS Ubuntu 18/20 (Home i większość innych):
 ```
 apt install git
 cd /var/www
-git clone https://github.com/lukasz-test/flaga.git
+git clone https://github.com/lukasz-test/flaga.git <--- wklej dokładnie tą linię do terminala
 cd flaga
 python3 xD.py
 ```
