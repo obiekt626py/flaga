@@ -10,8 +10,6 @@ ssh nazwa_uzytkownika@adres_ip
 
 PS: W trakcie instalacji gdy proces się zatrzymuje z zapytaniem "Do you want to continue? [Y/n]" na końcu, napisz "Y" aby przejść dalej.
 
-P2: Kto pominie jakąś komendę ten jest waflem i będzie miał błędy.
-
 
 ### Uprawnienia root dla AWS Ubuntu 18/20 (Nie trzeba tego kroku robić dla VPS z Home i większość innych):
 Ustawiamy uprawnienia root ("administratora").
@@ -66,7 +64,7 @@ pwd
 aby sprawdzić w jakim katalogu jesteś.
 
 
-Tworzenie i aktywacja środowiska:
+Tworzenie i aktywacja środowiska (WAŻNE!):
 ```
 python3 -m venv flagaenv
 source flagaenv/bin/activate
