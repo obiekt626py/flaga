@@ -132,7 +132,7 @@ Strona nadal będzie stała.
 
 #### Resetowanie środowiska
 
-# Resetowa nie srodowiska
+# Resetowa niesrodowiska
 
 ```
 python3 oczysc.py
