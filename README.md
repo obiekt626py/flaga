@@ -132,11 +132,11 @@ Strona nadal będzie stała.
 
 #### Resetowanie środowiska
 
-Zrób to w sytuacji jak coś Ci się zchrzani i będziesz chciał usunąć oliki bo:
+Zrób to w sytuacji jak coś Ci się zchrzani i będziesz chciał usunąć pliki bo:
 a) Błąd ze ścieżką gunicorna
 b) Zle podałes domenę w setting.ini
 
-
+[Poprawimy to po streamie]
 
 ```
 python3 oczysc.py
