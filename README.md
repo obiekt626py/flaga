@@ -139,7 +139,7 @@ python3 oczysc.py
 ```
 
 #### Flagi:
-
+```
 http://wsamselbaudat.pl/
 http://przemek2940.pl/
 http://rafalujma.pl/
@@ -238,6 +238,7 @@ http://dawidpawlas.pl/
 http://marcinjanuszewski.pl/
 http://arek-pe.pl
 http://pythonportfolio.pl/
+```
 
 
 
