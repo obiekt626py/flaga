@@ -98,7 +98,9 @@ Uruchom skrypt przygotowujący hosting w serwerze.
 python3 xd.py
 ```
 
+```
 systemctl start flaga.service
+```
 
 #### 5. Restartujemy nginxa i serwisy.
 
