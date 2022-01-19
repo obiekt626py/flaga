@@ -240,5 +240,6 @@ http://arek-pe.pl
 http://pythonportfolio.pl/
 ```
 
+Jest jeszcze drugie tyle +
 
 
