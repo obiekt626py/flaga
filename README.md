@@ -79,8 +79,7 @@ source flagaenv/bin/activate
 export FLASK_APP=app.py
 ```
 
-Edycja pliku z nazwą domeny. Po wywołaniu nano wpisz po spacji nazwę swojej domeny np (bez "www.") i system z którego korzystasz:
-
+Następnie podaj swoją domenę 
 
 #### Jeżeli łączysz się z systemu MACOS:
 ```
@@ -91,7 +90,7 @@ jed settings.ini
 ```
 nano settings.ini
 ```
-
+wywołując nano albo jed wpisz w nowym pliku po spacji nazwę swojej domeny np (bez "www.") i system z którego korzystasz wg wzoru:
 ```
 domena = nazwa_domeny.pl
 system_u_mnie_na_komputerze = MACOS # / Windows / Linux / Inny
