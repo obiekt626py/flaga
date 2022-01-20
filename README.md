@@ -68,7 +68,7 @@ pwd
 aby sprawdzić w jakim katalogu jesteś.
 
 
-Tworzenie i aktywacja środowiska (WAŻNE!):
+#### Tworzenie i aktywacja środowiska (WAŻNE!):
 ```
 python3 -m venv flagaenv
 source flagaenv/bin/activate
