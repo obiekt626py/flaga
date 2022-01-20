@@ -16,11 +16,11 @@ Ustawiamy uprawnienia root ("administratora").
 
 
 ```
-sudo passwd <----- To dla AWS tylkooo!
+sudo passwd # <----- To dla AWS tylkooo!
 ```
 Podaj hasło i zapisz. Wpisz jeszcze poniższe i podaj hasło.
 ```
-su -  <----- Też tylko dla AWS!! xD
+su -  # <----- Też tylko dla AWS!! xD
 ```
 
 Jesteś na serwerze jako root. 
@@ -42,7 +42,7 @@ VPS Ubuntu 18/20 (Home i większość innych):
 ```
 apt install git
 cd /var/www
-git clone https://github.com/lukasz-test/flaga.git <--- wklej dokładnie tą linię do terminala
+git clone https://github.com/lukasz-test/flaga.git # <--- wklej dokładnie tą linię do terminala
 cd flaga
 python3 xD.py
 ```
@@ -50,11 +50,11 @@ python3 xD.py
 AWS Ubuntu 18/20 (Home i większość innych):
 ```
 apt install git
-mkdir /var/www <---- to w AWS trzeba zrobić a nie trzeba w VPS (większości)
+mkdir /var/www # <---- to w AWS trzeba zrobić a nie trzeba w VPS (większości)
 cd /var/www
 git clone https://github.com/lukasz-test/flaga.git
 cd flaga
-python3 xD.py <---- z dużej litery xD.py a nie xd.py z małej litery.
+python3 xD.py # <---- z dużej litery xD.py a nie xd.py z małej litery.
 ```
 
 
