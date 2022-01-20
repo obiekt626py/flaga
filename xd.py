@@ -22,4 +22,8 @@ plik_gunicorn = open('flaga.service').read()
 with open('/etc/systemd/system/flaga.service', "w") as f:
 	f.write(plik_gunicorn)
 
+system_u_mnie_na_komputerze = config['XD']['system_u_mnie_na_komputerze']
+if system_u_mnie_na_komputerze == 'MACOS':
+	os.system('apt install jed')
+		
 os.system('sudo systemctl start flaga.service')
