@@ -74,16 +74,27 @@ python3 -m venv flagaenv
 source flagaenv/bin/activate
 ```
 
-Tworzenie zmiennej:
+#### Tworzenie zmiennej:
 ```
 export FLASK_APP=app.py
 ```
 
 Edycja pliku z nazwą domeny. Po wywołaniu nano wpisz po spacji nazwę swojej domeny np (bez "www."): 
-domena = nazwa_domeny.pl
+domena = nazwa_domeny.pl i 
+nazwa_twojego_systemu = MACOS / Windows / Linux / Inny.
+
+
+#### Jeżeli łączysz się z systemu MACOS:
+```
+jed settings.ini
+```
+
+#### Jeżeli łączysz się z systemu Windowsie/Linuxie:
 ```
 nano settings.ini
 ```
+
+
 Aby zapisać wciśnij ctrl+s
 Aby zamknąć wciśnij ctrl+x
 
@@ -113,13 +124,20 @@ systemctl restart flaga.service
 
 #### 6. Zmiana napisu.
 
+#### Jeżeli łączysz się z systemu MACOS:
+```
+cd /var/www/flaga
+jed xd.txt
+```
+
+#### Jeżeli łączysz się z systemu Windowsie/Linuxie:
 Będąc w folderze flaga edytujemy zawartość pliku xd.txt.
 ```
 cd /var/www/flaga
 nano xd.txt
 ```
 
-Przeładowujemy stronę.
+I przeładowujemy stronę.
 ```
 systemctl daemon-reload
 systemctl restart nginx
