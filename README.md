@@ -80,20 +80,12 @@ export FLASK_APP=app.py
 ```
 
 Następnie podaj swoją domenę 
-
-#### Jeżeli łączysz się z systemu MACOS:
-```
-jed settings.ini
-```
-
-#### Jeżeli łączysz się z systemu Windowsie/Linuxie:
 ```
 nano settings.ini
 ```
-wywołując nano albo jed wpisz w nowym pliku po spacji nazwę swojej domeny np (bez "www.") i system z którego korzystasz wg wzoru:
+wywołując nano albo jed wpisz w nowym pliku po spacji nazwę swojej domeny np (bez "www.") wg wzoru:
 ```
 domena = nazwa_domeny.pl
-system_u_mnie_na_komputerze = MACOS # / Windows / Linux / Inny
 ```
 
 Aby zapisać wciśnij ctrl+s
@@ -125,13 +117,6 @@ systemctl restart flaga.service
 
 #### 6. Zmiana napisu.
 
-#### Jeżeli łączysz się z systemu MACOS:
-```
-cd /var/www/flaga
-jed xd.txt
-```
-
-#### Jeżeli łączysz się z systemu Windowsie/Linuxie:
 Będąc w folderze flaga edytujemy zawartość pliku xd.txt.
 ```
 cd /var/www/flaga
