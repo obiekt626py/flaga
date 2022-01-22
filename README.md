@@ -97,13 +97,9 @@ Instalacja wymaganych bibliotek.
 pip3 install -r requirements.txt
 ```
 
-Uruchom skrypt przygotowujący hosting w serwerze.
+Uruchom skrypt przygotowujący hosting w serwerze (1 raz).
 ```
 python3 xd.py
-```
-
-```
-systemctl start flaga.service
 ```
 
 #### 5. Restartujemy nginxa i serwisy.
