@@ -1,0 +1,20 @@
+# Propozycja najważniejszych komend by Cryst:
+
+cd <ścieżka do folderu>				#np. cd /var/www/flaga		#przejście do wskazanego katalogu
+cd ..								#lub cd ~ 					#cofnięcie się do katalogu nadrzędnego
+pwd									# 							#wyświetla ścieżkę do aktualnego katalogu, w którym jesteś
+ls									#ew. ll 					#wyświetla pliki w katalogu
+cat <ścieżka do pliku>				#np. cat  					#wyświtla zawartość pliku
+systemctl restart <nazwa usługi> 	#np. systemctl restart flaga#restart wskazanego programu działającego w tle
+systemctl status <nazwa usługi> 	#np. systemctl status nginx #status wskazanego programu działającego w tle
+sudo <nazwa komendy>				#np. sudo su 				#uruchomienie komendy jako administrator
+nano <ścieżka do pliku>				#np. nano xd.txt			#modyfikacja wskazanego pliku w edytorze tekstu
+python3 <ścieżka do aplikacji>		#np. python3 app.py 		#uruchamia kod python
+
+
+++++ do sprawdzenia sobie samodzielnie
+mkdir <ścieżka do nowego katalogu>
+rm <ścieżka do usuwanego pliku>
+cp <kopiowany plik> <miejsce docelowe>
+touch <nazwa pliku>
+tail <ścieżka do logów(dziennika)>	#np. tail /var/log/nginx/access.log	#wyświetlenie ostatnich 10 linii dużego pliku
