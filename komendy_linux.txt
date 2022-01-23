@@ -1,20 +1,24 @@
 # Propozycja najważniejszych komend by Cryst:
+# Komendy są wypisane w szyku:
+# 1. [komenda]    # Komentarz
+# 2. [komenda]    # Komentarz
+# 3. [komenda]    # Komentarz
 
-cd <ścieżka do folderu>				#np. cd /var/www/flaga		#przejście do wskazanego katalogu
-cd ..								#lub cd ~ 					#cofnięcie się do katalogu nadrzędnego
-pwd									# 							#wyświetla ścieżkę do aktualnego katalogu, w którym jesteś
-ls									#ew. ll 					#wyświetla pliki w katalogu
-cat <ścieżka do pliku>				#np. cat  					#wyświtla zawartość pliku
-systemctl restart <nazwa usługi> 	#np. systemctl restart flaga#restart wskazanego programu działającego w tle
-systemctl status <nazwa usługi> 	#np. systemctl status nginx #status wskazanego programu działającego w tle
-sudo <nazwa komendy>				#np. sudo su 				#uruchomienie komendy jako administrator
-nano <ścieżka do pliku>				#np. nano xd.txt			#modyfikacja wskazanego pliku w edytorze tekstu
-python3 <ścieżka do aplikacji>		#np. python3 app.py 		#uruchamia kod python
+# Lista #LinuxHot16Challange by Cryst pierwsza dziesiątka:
 
-
-++++ do sprawdzenia sobie samodzielnie
-mkdir <ścieżka do nowego katalogu>
-rm <ścieżka do usuwanego pliku>
-cp <kopiowany plik> <miejsce docelowe>
-touch <nazwa pliku>
-tail <ścieżka do logów(dziennika)>	#np. tail /var/log/nginx/access.log	#wyświetlenie ostatnich 10 linii dużego pliku
+1. cd <ścieżka do folderu>				#np. cd /var/www/flaga		#przejście do wskazanego katalogu
+2. cd ..								#lub cd ~ 					#cofnięcie się do katalogu nadrzędnego
+3. pwd									# 							#wyświetla ścieżkę do aktualnego katalogu, w którym jesteś
+4. ls									#ew. ll 					#wyświetla pliki w katalogu
+5. cat <ścieżka do pliku>				#np. cat  					#wyświtla zawartość pliku
+6. systemctl restart <nazwa usługi> 	#np. systemctl restart flaga#restart wskazanego programu działającego w tle
+7. systemctl status <nazwa usługi> 	#np. systemctl status nginx #status wskazanego programu działającego w tle
+8. sudo <nazwa komendy>				#np. sudo su 				#uruchomienie komendy jako administrator
+9. nano <ścieżka do pliku>				#np. nano xd.txt			#modyfikacja wskazanego pliku w edytorze tekstu
+10. python3 <ścieżka do aplikacji>		#np. python3 app.py 		#uruchamia kod python
+11. mkdir <ścieżka do nowego katalogu>
+12. rm <ścieżka do usuwanego pliku>
+13. cp <kopiowany plik> <miejsce docelowe>
+14. touch <nazwa pliku>
+15. tail <ścieżka do logów(dziennika)>	#np. tail /var/log/nginx/access.log	#wyświetlenie ostatnich 10 linii dużego pliku
+16. dig @8.8.8.8 nazwa-domeny.pl # np. dig @8.8.8.8 etyczne-dziennikarstwo.pl  
