@@ -14,7 +14,7 @@ def index():
     return render_template("index.html", text=text)
 
 @app.route('/xd')
-def index():
+def xd():
     
     strona_flag = requests.get('https://zajecia-programowania-xd.pl/flagi')
     
