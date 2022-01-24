@@ -18,9 +18,8 @@ def index():
     
     strona_flag = requests.get('https://zajecia-programowania-xd.pl/flagi')
     
-    text = {'d1':'x'}
     
-    return render_template("xd.html", text=text)
+    return render_template("xd.html")
     
 if __name__=="__main__":
     app.run()
