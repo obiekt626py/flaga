@@ -1,15 +1,12 @@
-<!DOCTYPE>
-<html>
-<head>
-</head>
-
-<body>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <h1 style="text-align:center">{{text}}</h1>
-</body>
-
-</html>
+<table class="centered thick-border">
+        <tr>
+                <th>Link/th>
+                <th>Info</th>
+        </tr>
+        {% for k, v in domeny.items() %}
+                <tr>
+                        <td>{{ k }}</td>
+                        <td>{{ v }}</td>
+                </tr>
+        {% endfor %}
+</table>
