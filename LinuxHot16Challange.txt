@@ -27,6 +27,23 @@
 # EDYTUJ PONIŻSZE LINIE:
 # O pliki będę pytał na zajęciach w ŚRODĘ o 19:00 ale możecie po prostu to wrzucać wszędzie aby popularyzować Linuxa.
 
+# UWAGA: WAŻNE JEST TRZYMANIE FORMATU.
+
+W kodzie, jak i w plikach z danymi w programowaniu utrzymujemy porządek. Trzymanie się określonych formatów i standardów sprawia, że można przetwarzać dane z bardzo wiele plików jednocześnie w krótkim czasie. Różne rodzaje formatów wymagały by większego skomplikowania kodu, przewidzenia w jakie sposoby można podejść do rozwiązania problemu. Tu jednak chcemy aby nasze rozwiązania zostały przeczytane przez wszystkich. Dlatego proszę, z wisienką na czubeczku: trzymaj się formatu:
+
+HOT 16
+
+# 1. komenda
+# Opis...
+
+# 2. ... 
+# ... 
+
+# 3. ...
+# ...
+
+...
+
 
 # AUTOR: Ty
 
