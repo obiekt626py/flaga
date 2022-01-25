@@ -24,6 +24,11 @@
 # jak wpisujesz nazwę własną to pisz <co:przyklad> np. 
 # ssh -i <klucz:klucz.pem> <login:ubuntu>@<ip:1.1.1.1>
 
+# EDYTUJ PONIŻSZE LINIE:
+# O pliki będę pytał na zajęciach w ŚRODĘ o 19:00 ale możecie po prostu to wrzucać wszędzie aby popularyzować Linuxa.
+
+
+# AUTOR: Ty
 
 # HOT 16
 
@@ -126,3 +131,9 @@
 
 # 32. komenda
 # Opis... - czyli co to robi. Krótki, w jednej linijce.
+
+#### ZPXD:
+# Darmowe roczne zajęcia z programowania. Zapraszajcie:
+# https://zajecia-programowania-xd.pl/szturm_na_aws
+# https://www.facebook.com/Szturm-na-AWS-109216351659123
+# https://discord.gg/46JVvHgzqz
