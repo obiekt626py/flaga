@@ -1,0 +1,32 @@
+1. cd <ścieżka do folderu>                 # np. cd /var/www/flaga		#przejście do wskazanego katalogu
+2. cd ..								                   #lub cd ~ 					#cofnięcie się do katalogu nadrzędnego
+3. pwd									                   # 							#wyświetla ścieżkę do aktualnego katalogu, w którym jesteś
+4. ls									                     # ew. ll 					#wyświetla pliki w katalogu
+5. cat <ścieżka do pliku>	                 # np. cat  					#wyświtla zawartość pliku
+6. systemctl restart <nazwa usługi> 	     # np. systemctl restart flaga#restart wskazanego programu działającego w tle
+7. systemctl status <nazwa usługi> 	       # np. systemctl status nginx #status wskazanego programu działającego w tle
+8. sudo <nazwa komendy>			               # np. sudo su 				#uruchomienie komendy jako administrator
+9. nano <ścieżka do pliku>				         # np. nano xd.txt			#modyfikacja wskazanego pliku w edytorze tekstu
+10. python3 <ścieżka do aplikacji>		     # np. python3 app.py 		#uruchamia kod python
+11. mkdir <ścieżka do nowego katalogu>     #
+12. rm <ścieżka do usuwanego pliku>        #
+13. cp <kopiowany plik> <miejsce docelowe> # 
+14. touch <nazwa pliku>                    #
+15. tail <ścieżka do logów(dziennika)>	   # np. tail /var/log/nginx/access.log	#wyświetlenie ostatnich 10 linii dużego pliku
+16. dig @8.8.8.8 nazwa-domeny.pl           # np. dig @8.8.8.8 etyczne-dziennikarstwo.pl  
+17. 
+18.
+19.
+20.
+21.
+22.
+23.
+24.
+25.
+26.
+27.
+28.
+29.
+30.
+31.
+32. 
