@@ -12,8 +12,8 @@
 # Udział może brać każdy, początkujący i doświadczeni. Jeżeli wolisz poczekać na rezultat, 
 # to wejdź tutaj 1 Lutego.
 
-# Powodzenia! I pamiętaj, że robimy to aby przybliżyć ludziom Linuxa :)
- 
+# Powodzenia! I pamiętaj, że robimy to aby przybliżyć ludziom Linuxa jako przyjazny system, więc zastanów się nad tym jak to dobrze opisać.
+
 # PS: Pamiętaj o zwięzłości i czytelności. Te pliki będą zczytywane automatycznie, więc wyjście poza format sprawi, że Twoja propozycja nie zostanie uwzględniona:
 # 1. cd <folder:/var>
 # Teleportuje Cię do folderu /var.
