@@ -42,7 +42,16 @@ HOT 16
 # 3. ...
 # ...
 
-...
+...sh
+
+A jeżeli chcesz napisać po swojemu - to super (jak np:)
+https://github.com/rafaldinho19/Komendy-linux/
+
+ale wtedy napisz to jako drugi plik i nazwij go:
+LinuxHot16ChallangeFreestyle.txt
+
+
+
 
 
 # AUTOR: Ty
